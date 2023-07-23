@@ -1,0 +1,21 @@
+.red{
+    
+    margin-top:10px;
+    margin-left:50px;
+    width:500px;
+    height:230px;
+    float:left;
+    background-image: url('../images/Nithish.jpg');
+    border: 5px solid black;
+    background-size: 100%;
+}
+#re{
+   
+    margin-top:60px;
+    margin-left:200px;
+    width:700px;
+    height:400px;
+    float:left; 
+    font-size: 30px;
+    font-style: italic;
+}
